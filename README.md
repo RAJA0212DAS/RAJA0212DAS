@@ -1,138 +1,158 @@
+<!-- Profile README for RAJA0212DAS -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Raja%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Raja%20Das&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student&descAlignY=58&descSize=22" width="100%" alt="Raja Das header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Python+%2F+C%2B%2B+%2F+Java+Dev;Building+ATM-System+%26+Sikha-Setu;Exploring+AWS+and+AI+Tools+(Claude+%26+ChatGPT);Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=CS+Student;Python+%7C+C%2B%2B+%7C+Java;HTML+%7C+CSS;AWS+%7C+Claude+%7C+ChatGPT;Building+Atm-system+%26+Sikha-setu" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=black)
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a" alt="Open to Work"/>
 
-<br/>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RAJA0212DAS&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/RAJA0212DAS?style=for-the-badge&color=7dd3fc&labelColor=black)
+<img src="https://komarev.com/ghpvc/?username=RAJA0212DAS&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/RAJA0212DAS?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 Who I Am
 
 ```typescript
-const raja = {
+const RajaDas = {
   title: "CS Student",
   stack: {
     languages: ["Python", "C++", "Java"],
     frontend: ["HTML", "CSS"],
     cloud: ["AWS"],
-    aiTools: ["Claude", "ChatGPT"],
+    aiTools: ["Claude", "ChatGPT"]
   },
   launchedProjects: ["Atm-system", "Sikha-setu"],
   certifications: [],
-  status: "Open to work",
-  openTo: ["Internships", "Collaborations", "Junior Developer Roles"],
+  status: "Open to Work",
+  openTo: "Work opportunities"
 };
 ```
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-### 🏧 ATM System
+### 🏧 Atm-system
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJA0212DAS&repo=Atm-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Atm-system Repo Card"/>
-</div>
+<a href="https://github.com/RAJA0212DAS/Atm-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJA0212DAS&repo=Atm-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Atm-system"/>
+</a>
 
-| Layer      | Technology |
-|------------|------------|
-| Language   | C++ / Java |
-| Logic      | Core Banking Operations (Deposit, Withdraw, Balance Check) |
-| Interface  | Console-based |
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Project | Atm-system |
 
-🔗 **Live**: N/A &nbsp;|&nbsp; 💻 **Code**: [github.com/RAJA0212DAS/Atm-system](https://github.com/RAJA0212DAS/Atm-system)
+**Live:** Not provided  
+**Code:** [GitHub Repository](https://github.com/RAJA0212DAS/Atm-system)
 
-<br/>
+---
 
-### 📚 Sikha Setu
+### 📚 Sikha-setu
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJA0212DAS&repo=Sikha-setu&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Sikha-setu Repo Card"/>
-</div>
+<a href="https://github.com/RAJA0212DAS/Sikha-setu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJA0212DAS&repo=Sikha-setu&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Sikha-setu"/>
+</a>
 
-| Layer      | Technology |
-|------------|------------|
-| Language   | Python |
-| Frontend   | HTML, CSS |
-| Cloud      | AWS |
+| Layer | Technology |
+|---|---|
+| Project | Sikha-setu |
 
-🔗 **Live**: N/A &nbsp;|&nbsp; 💻 **Code**: [github.com/RAJA0212DAS/Sikha-setu](https://github.com/RAJA0212DAS/Sikha-setu)
+**Live:** Not provided  
+**Code:** [GitHub Repository](https://github.com/RAJA0212DAS/Sikha-setu)
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" alt="Python C++ Java"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML CSS"/>
+</p>
 
-**Frontend**
+### Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+### AI / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=claude,chatgpt&theme=dark" alt="Claude ChatGPT"/>
+</p>
 
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-**AI Tools**
-
-![Claude](https://img.shields.io/badge/Claude-7DD3FC?style=for-the-badge&logo=anthropic&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-7DD3FC?style=for-the-badge&logo=openai&logoColor=black)
-
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJA0212DAS&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJA0212DAS&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RAJA0212DAS&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJA0212DAS&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" height="180" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=RAJA0212DAS&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" alt="GitHub Streak"/>
+
 </div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RAJA0212DAS&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RAJA0212DAS&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+
 </div>
 
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJA0212DAS&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
-</div>
-
-<br/>
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJA0212DAS&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJA0212DAS&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
 </div>
 
-<br/>
+---
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raja-das-6b3a45305)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rd8629040@gamil.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7DD3FC?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RAJA0212DAS/)
+<a href="https://www.linkedin.com/in/raja-das-6b3a45305">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/>
+</a>
+<a href="mailto:rd8629040@gamil.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/RAJA0212DAS/">
+  <img src="https://img.shields.io/badge/LeetCode-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=0f172a" alt="LeetCode"/>
+</a>
 
 </div>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>
