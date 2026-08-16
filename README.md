@@ -154,7 +154,7 @@ Open To:
 
 
 </div>
-### 🌐 Frontend
+ 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
