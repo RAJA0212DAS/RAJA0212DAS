@@ -287,17 +287,6 @@ A learning-focused software project built to explore practical development using
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RAJA0212DAS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJA0212DAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
