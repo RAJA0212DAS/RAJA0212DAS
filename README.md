@@ -8,6 +8,10 @@
 
 <br><br>
 
+# 👋 Hi, I'm Raja Das
+
+### CS Student • Software Developer • Problem Solver
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=CS+Student;Python+%7C+C%2B%2B+%7C+Java+Developer;Building+Practical+Projects;Exploring+AWS+%26+AI+Tools;Always+Learning+Something+New" />
 
 <br><br>
@@ -32,9 +36,8 @@
 
 ---
 
-# 👋 Hi, I'm Raja Das
 
-### 💻 CS Student | Python | C++ | Java | AWS | AI Enthusiast
+###  Python | C++ | Java | AWS | AI Enthusiast
 
 I'm a **Computer Science student** who enjoys learning through practical projects, programming challenges, and experimenting with modern technologies.
 
@@ -190,8 +193,7 @@ A practical ATM-system project focused on implementing common banking operations
 
 ### 🛠️ Technology
 
-- C++
-- Java
+- Python
 - Core Programming Concepts
 
 </td>
