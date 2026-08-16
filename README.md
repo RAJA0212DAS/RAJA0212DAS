@@ -121,16 +121,40 @@ Open To:
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="18%"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Exploring</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-312E81?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-3730A3?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-4338CA?style=flat-square"/>
+</td>
+</tr>
+</table>
 
-### 💻 Languages
+<div align="right">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark">
+[↑ Back to top](#)
 
-<br><br>
-
+</div>
 ### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
