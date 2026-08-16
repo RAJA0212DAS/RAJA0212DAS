@@ -152,7 +152,6 @@ Open To:
 
 <div align="right">
 
-[↑ Back to top](#)
 
 </div>
 ### 🌐 Frontend
@@ -173,6 +172,10 @@ Open To:
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
 
 </div>
+
+[↑ Back to top](#)
+
+
 
 ---
 
